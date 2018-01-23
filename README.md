@@ -10,13 +10,15 @@
 
 ## #todos-los-meses
 
-[BeerJS](http://www.beerjs.cl/)
+- [BeerJS](http://www.beerjs.cl/)
+- [MeetupJS](https://www.meetup.com/es-ES/NodersJS/events/)
 
 ## #agosto
-[9punto5](http://www.9punto5.cl/)
+- [9punto5](http://www.9punto5.cl/)
+- [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
 
 ## #noviembre
-[StarsConf](http://www.starsconf.com/)
+- [StarsConf](http://www.starsconf.com/)
 
 --
 
