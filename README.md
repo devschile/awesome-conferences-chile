@@ -11,7 +11,8 @@
 
 ## #todos-los-meses
 
-[BeerJS](http://www.beerjs.cl/)
+- [BeerJS](http://www.beerjs.cl/)
+- [MeetupJS](https://www.meetup.com/es-ES/NodersJS/events/)
 
 [SantiagoJS](https://github.com/Noders/Meetups)
 
@@ -20,7 +21,8 @@
 [SoCraTes](http://www.socrates-conference.cl/)
 
 ## #agosto
-[9punto5](http://www.9punto5.cl/)
+- [9punto5](http://www.9punto5.cl/)
+- [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
 
 ## #octubre
 [8.8 Computer Security](https://www.8dot8.org/cl)
@@ -28,7 +30,7 @@
 [IEEE CHILECON](http://chilecon2017.ubiobio.cl/)
 
 ## #noviembre
-[StarsConf](http://www.starsconf.com/)
+- [StarsConf](http://www.starsconf.com/)
 
 --
 
