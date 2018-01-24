@@ -6,14 +6,22 @@
 
 - [Todos los meses](#todos-los-meses)
 - [Agosto](#agosto)
+- [Octubre](#octubre)
 - [Noviembre](#noviembre)
 
 ## #todos-los-meses
 
 [BeerJS](http://www.beerjs.cl/)
+[SantiagoJS](https://github.com/Noders/Meetups)
+[BurgerJS Santiago](https://github.com/Noders/BurgerJS)
+[SoCraTes](http://www.socrates-conference.cl/)
 
 ## #agosto
 [9punto5](http://www.9punto5.cl/)
+
+## #octubre
+[8.8 Computer Security](https://www.8dot8.org/cl)
+[IEEE CHILECON](http://chilecon2017.ubiobio.cl/)
 
 ## #noviembre
 [StarsConf](http://www.starsconf.com/)
