@@ -12,8 +12,11 @@
 ## #todos-los-meses
 
 [BeerJS](http://www.beerjs.cl/)
+
 [SantiagoJS](https://github.com/Noders/Meetups)
+
 [BurgerJS Santiago](https://github.com/Noders/BurgerJS)
+
 [SoCraTes](http://www.socrates-conference.cl/)
 
 ## #agosto
@@ -21,6 +24,7 @@
 
 ## #octubre
 [8.8 Computer Security](https://www.8dot8.org/cl)
+
 [IEEE CHILECON](http://chilecon2017.ubiobio.cl/)
 
 ## #noviembre
