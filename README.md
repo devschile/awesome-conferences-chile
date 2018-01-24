@@ -8,16 +8,18 @@
 - [Agosto](#agosto)
 - [Octubre](#octubre)
 - [Noviembre](#noviembre)
+- [Diciembre](#diciembre)
 
 ## #todos-los-meses
-
 * [BeerJS](http://www.beerjs.cl/)
 * [SantiagoJS](https://github.com/Noders/Meetups)
+* [MeetupJS](https://www.meetup.com/es-ES/NodersJS/events/)
 * [BurgerJS Santiago](https://github.com/Noders/BurgerJS)
 * [SoCraTes](http://www.socrates-conference.cl/)
 
 ## #agosto
 * [9punto5](http://www.9punto5.cl/)
+* [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
 
 ## #octubre
 * [8.8 Computer Security](https://www.8dot8.org/cl)
