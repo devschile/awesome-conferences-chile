@@ -12,8 +12,7 @@
 
 ## #todos-los-meses
 * [BeerJS](http://www.beerjs.cl/)
-* [SantiagoJS](https://github.com/Noders/Meetups)
-* [MeetupJS](https://www.meetup.com/es-ES/NodersJS/events/)
+* [SantiagoJS](https://www.meetup.com/es-ES/NodersJS/events/)
 * [BurgerJS Santiago](https://github.com/Noders/BurgerJS)
 * [SoCraTes](http://www.socrates-conference.cl/)
 
