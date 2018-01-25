@@ -5,6 +5,7 @@
 **Listado de conferencias de tecnología en Chile**
 
 - [Todos los meses](#todos-los-meses)
+- [Abril](#abril)
 - [Agosto](#agosto)
 - [Octubre](#octubre)
 - [Noviembre](#noviembre)
