@@ -19,7 +19,7 @@
 
 ## #abril
 
-[Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
+* [Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
 
 ## #agosto
 * [9punto5](http://www.9punto5.cl/)
