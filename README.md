@@ -16,6 +16,10 @@
 * [BurgerJS Santiago](https://github.com/Noders/BurgerJS)
 * [SoCraTes](http://www.socrates-conference.cl/)
 
+## #abril
+
+[Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
+
 ## #agosto
 * [9punto5](http://www.9punto5.cl/)
 * [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
