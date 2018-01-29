@@ -14,6 +14,7 @@
 
 ## #todos-los-meses
 * [BeerJS](http://www.beerjs.cl/)
+* [BeerJS Valdivia](http://www.beerjs.cl/valdivia)
 * [SantiagoJS](https://www.meetup.com/es-ES/NodersJS/events/)
 * [BurgerJS Santiago](https://github.com/Noders/BurgerJS)
 * [SoCraTes](http://www.socrates-conference.cl/)
@@ -26,8 +27,10 @@
 * [Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
 
 ## #agosto
-* [9punto5](http://www.9punto5.cl/)
 * [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
+
+## #septiembre
+* [9punto5](http://www.9punto5.cl/)
 
 ## #octubre
 * [8.8 Computer Security](https://www.8dot8.org/cl)
