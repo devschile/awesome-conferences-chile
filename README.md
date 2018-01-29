@@ -5,6 +5,7 @@
 **Listado de conferencias de tecnología en Chile**
 
 - [Todos los meses](#todos-los-meses)
+- [Marzo](#marzo)
 - [Abril](#abril)
 - [Agosto](#agosto)
 - [Octubre](#octubre)
@@ -16,6 +17,9 @@
 * [SantiagoJS](https://www.meetup.com/es-ES/NodersJS/events/)
 * [BurgerJS Santiago](https://github.com/Noders/BurgerJS)
 * [SoCraTes](http://www.socrates-conference.cl/)
+
+## #marzo
+* [SingularityU Chile Summit](http://singularityuchilesummit.com/)
 
 ## #abril
 
