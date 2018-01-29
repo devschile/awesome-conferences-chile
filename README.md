@@ -8,6 +8,7 @@
 - [Marzo](#marzo)
 - [Abril](#abril)
 - [Agosto](#agosto)
+- [Septiembre](#septiembre)
 - [Octubre](#octubre)
 - [Noviembre](#noviembre)
 - [Diciembre](#diciembre)
@@ -23,7 +24,6 @@
 * [SingularityU Chile Summit](http://singularityuchilesummit.com/)
 
 ## #abril
-
 * [Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
 
 ## #agosto
