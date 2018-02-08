@@ -22,6 +22,7 @@
 
 ## #marzo
 * [SingularityU Chile Summit](http://singularityuchilesummit.com/)
+* [Webprendedor](https://welcu.com/webprendedor/webprendedor10)
 
 ## #abril
 * [Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
