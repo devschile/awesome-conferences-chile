@@ -21,6 +21,7 @@
 * [SoCraTes](http://www.socrates-conference.cl/)
 
 ## #marzo
+* [OpenDataDay](opendataday.cl)
 * [SingularityU Chile Summit](http://singularityuchilesummit.com/)
 * [Webprendedor](https://welcu.com/webprendedor/webprendedor10)
 
