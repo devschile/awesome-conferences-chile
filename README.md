@@ -27,6 +27,7 @@
 
 ## #abril
 * [Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
+* [OWASP Latam 2018](https://www.owasp.org/index.php/LatamTour2018#tab=CHILE)
 
 ## #agosto
 * [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
