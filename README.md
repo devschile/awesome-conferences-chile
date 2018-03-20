@@ -7,6 +7,7 @@
 - [Todos los meses](#todos-los-meses)
 - [Marzo](#marzo)
 - [Abril](#abril)
+- [Mayo](#mayo)
 - [Agosto](#agosto)
 - [Septiembre](#septiembre)
 - [Octubre](#octubre)
@@ -29,6 +30,9 @@
 ## #abril
 * [Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
 * [OWASP Latam 2018](https://www.owasp.org/index.php/LatamTour2018#tab=CHILE)
+
+## #mayo
+* [Business Agility Conf 2018](http://www.scrumday.cl/)
 
 ## #agosto
 * [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
