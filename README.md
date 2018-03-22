@@ -30,6 +30,7 @@
 ## #abril
 * [Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
 * [OWASP Latam 2018](https://www.owasp.org/index.php/LatamTour2018#tab=CHILE)
+* [eCommerce Day Santiago](http://www.ecommerceday.cl/2018/)
 
 ## #mayo
 * [Business Agility Conf 2018](http://www.scrumday.cl/)
