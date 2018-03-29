@@ -31,6 +31,7 @@
 * [Talent Fest Santiago](http://talentfest.laboratoria.la/santiago)
 * [OWASP Latam 2018](https://www.owasp.org/index.php/LatamTour2018#tab=CHILE)
 * [eCommerce Day Santiago](http://www.ecommerceday.cl/2018/)
+* [Google Cloud Summit Santiago](https://cloudplatformonline.com/Cloud-Summit-Roadshow-Santiago-About.html)
 
 ## #mayo
 * [Business Agility Conf 2018](http://www.scrumday.cl/)
