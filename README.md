@@ -35,6 +35,7 @@
 
 ## #mayo
 * [Business Agility Conf 2018](http://www.scrumday.cl/)
+* [Blockchain Summit Latam](http://www.blockchainsummit.la/): A conference that seeks to bring the use of Blockchain technology closer to people, explaining the origin, adoption and potential for Latin America
 
 ## #agosto
 * [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
