@@ -8,6 +8,7 @@
 - [Marzo](#marzo)
 - [Abril](#abril)
 - [Mayo](#mayo)
+- [Junio](#junio)
 - [Agosto](#agosto)
 - [Septiembre](#septiembre)
 - [Octubre](#octubre)
@@ -36,6 +37,9 @@
 ## #mayo
 * [Business Agility Conf 2018](http://www.scrumday.cl/)
 * [Blockchain Summit Latam](http://www.blockchainsummit.la/): A conference that seeks to bring the use of Blockchain technology closer to people, explaining the origin, adoption and potential for Latin America
+
+## #junio
+* [ExpoChiletec Transformación Digital 2018](https://snafflz.com/event/ExpoChiletec): ExpoChiletec, evento organizado por Chiletec con el Apoyo de CORFO, busca profundizar los conceptos de Inteligencia Artificial y Big Data.
 
 ## #agosto
 * [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
