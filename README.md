@@ -9,6 +9,7 @@
 - [Abril](#abril)
 - [Mayo](#mayo)
 - [Junio](#junio)
+- [Julio](#julio)
 - [Agosto](#agosto)
 - [Septiembre](#septiembre)
 - [Octubre](#octubre)
@@ -40,6 +41,9 @@
 
 ## #junio
 * [ExpoChiletec Transformación Digital 2018](https://snafflz.com/event/ExpoChiletec): ExpoChiletec, evento organizado por Chiletec con el Apoyo de CORFO, busca profundizar los conceptos de Inteligencia Artificial y Big Data.
+
+## #julio
+* [(ISC)² Latam Security Congress](https://www.isc2latamcongress.com/es/): La conferencia de 2018 aportará más de 40 sesiones educativas presentadas por expertos internacionales y líderes de pensamiento. A medida que las amenazas y los ataques cibernéticos continúan creciendo, nuestro objetivo es colaborar con el desarrollo de los profesionales de ciberseguridad, proporcionando los conocimientos, herramientas, orientación y habilidades que les permitan  proteger a sus organizaciones.
 
 ## #agosto
 * [IVDevs Conference](http://ivdevs.com/evento/) Sábado 18 - La Serena
