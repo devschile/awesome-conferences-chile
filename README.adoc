@@ -1,0 +1,67 @@
+:toc: macro
+:toc-title: Listado de conferencias de tecnología en Chile
+:toclevels: 99
+
+# Awesome Conferences Chile
+
+https://github.com/sindresorhus/awesome[image:https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg[]]
+
+toc::[]
+
+## Cómo contribuir
+
+- fork a este repositorio.
+- agrega / modifica / elimina información.
+- commit a tu fork, con un mensaje descriptivo.
+- pull-request para aprobación.
+
+También puedes crear un issue para solicitar que alguien añada tu evento o preguntar en https://devschile.cl por ayuda.
+
+
+## #todos-los-meses
+* http://www.beerjs.cl/[BeerJS]
+* http://www.beerjs.cl/valdivia[BeerJS Valdivia]
+* https://www.meetup.com/es-ES/NodersJS/events/[SantiagoJS]
+* https://github.com/Noders/BurgerJS[BurgerJS Santiago]
+* http://www.socrates-conference.cl/[SoCraTes]
+
+## #marzo
+* http://opendataday.cl/[OpenDataDay]
+* http://singularityuchilesummit.com/[SingularityU Chile Summit]
+* https://welcu.com/webprendedor/webprendedor10[Webprendedor]
+* http://bigdatachile.movistarempresas.cl/[Big Data Innovation Day Chile]
+
+## #abril
+* http://talentfest.laboratoria.la/santiago[Talent Fest Santiago]
+* https://www.owasp.org/index.php/LatamTour2018#tab=CHILE[OWASP Latam]
+* http://www.ecommerceday.cl/[eCommerce Day Santiago]
+* https://cloudplatformonline.com/Cloud-Summit-Roadshow-Santiago-About.html[Google Cloud Summit Santiago]
+
+## #mayo
+* http://www.scrumday.cl/[Scrum Day]
+* http://www.blockchainsummit.la/)[Blockchain Summit Latam]: A conference that seeks to bring the use of Blockchain technology closer to people, explaining the origin, adoption and potential for Latin America
+
+## #junio
+* https://snafflz.com/event/ExpoChiletec[ExpoChiletec Transformación Digital]: ExpoChiletec, evento organizado por Chiletec con el Apoyo de CORFO, busca profundizar los conceptos de Inteligencia Artificial y Big Data.
+
+## #julio
+* https://www.isc2latamcongress.com/es/[(ISC)² Latam Security Congress]
+
+## #agosto
+* http://ivdevs.com/evento/[IVDevs Conference]
+
+## #septiembre
+* http://www.9punto5.cl/[9punto5]
+
+## #octubre
+* https://www.8dot8.org/cl[8.8 Computer Security]
+* http://chilecon2017.ubiobio.cl/[IEEE CHILECON]
+* http://jcc-infonorchile2017.uta.cl/[JCC]
+* http://jcc-infonorchile2017.uta.cl/[INFONOR]
+
+## #noviembre
+* http://www.starsconf.com/[StarsConf]
+
+## #diciembre
+* http://evic2017.uv.cl/[EVIC]
+* https://webintelligence2018.com/[Web Intelligence Chile]
