@@ -1,12 +1,22 @@
-# Awesome Conferences Chile
-
-https://github.com/sindresorhus/awesome[image:https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg[]]
-
 :toc: macro
 :toc-title: Listado de conferencias de tecnología en Chile
 :toclevels: 99
 
+# Awesome Conferences Chile
+
+https://github.com/sindresorhus/awesome[image:https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg[]]
+
 toc::[]
+
+## Cómo contribuir
+
+- fork a este repositorio.
+- agrega / modifica / elimina información.
+- commit a tu fork, con un mensaje descriptivo.
+- pull-request para aprobación.
+
+También puedes crear un issue para solicitar que alguien añada tu evento o preguntar en https://devschile.cl por ayuda.
+
 
 ## #todos-los-meses
 * http://www.beerjs.cl/[BeerJS]
@@ -55,12 +65,3 @@ toc::[]
 ## #diciembre
 * http://evic2017.uv.cl/[EVIC]
 * https://webintelligence2018.com/[Web Intelligence Chile]
-
-## Cómo contribuir:
-
-- fork a este repositorio.
-- agrega / modifica / elimina información.
-- commit a tu fork, con un mensaje descriptivo.
-- pull-request para aprobación.
-
-También puedes crear un issue para solicitar que alguien añada tu evento o preguntar en https://devschile.cl por ayuda.
